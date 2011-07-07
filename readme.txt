@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: 1.0
 
-Modifies the WordPress core update checking and notification message.
+Customize and control the WordPress update message in the dashboard.
 
 == Description ==
 
-This plugin allows you to edit the WordPress update message shown when a new version of WordPress is available.  This plugin is targeted toward web developers who want to provide support to their clients when updates are available.  You can enter your contact information, and a personalized message.  You can also determine which types of users see the message and which do not.
+This plugin allows you to customize the WordPress update message shown when a new version of WordPress is available.  This plugin is targeted toward web developers who want to provide support to their clients when updates are available, and prevent clients from accidentally breaking the site via updates.  Developers can enter their contact information, and a personalized message to be shown when the update is available.  Finally, developers can also determine which types of users see the upgrade message and which do not.
 
 == Installation ==
 
