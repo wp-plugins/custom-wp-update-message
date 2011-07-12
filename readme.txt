@@ -3,8 +3,8 @@ Contributors: computercourage
 Donate link: http://www.computercourage.com
 Tags: core update
 Requires at least: 3.0
-Tested up to: 3.1
-Stable tag: 1.0
+Tested up to: 3.2.1
+Stable tag: 1.0.1
 
 Customize and control the WordPress update message in the dashboard.
 
@@ -17,7 +17,15 @@ This plugin allows you to customize the WordPress update message shown when a ne
 1. Upload the 'custom-wp-update-message' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Screenshots ==
+
+1. The message as displayed on the plugin admin panel.
+
 == Changelog ==
+
+= 1.0.1 =
+* Change to the way options are saved.
+* Settings link fix
 
 = 1.0 =
 Initial release.
